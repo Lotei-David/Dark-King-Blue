@@ -1,0 +1,40 @@
+{
+    "name": "dark-king-blue",
+    "displayName": "Dark King Blue",
+    "description": "Dark King Blue is a dark theme, created by Lotei David!",
+    "version": "0.3.0",
+    "publisher": "LoteiDavid",
+    "icon": "darkkingblue.png",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "king",
+        "dark king",
+        "dark king blue",
+        "David",
+        "Lotei David",
+        "Lotei David dark",
+        "blue",
+        "dark blue",
+        "blue theme",
+        "dark blue theme"
+    ],
+    "author": {
+        "name": "Lotei David"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark King Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark King-color-theme.json"
+            }
+        ]
+    }
+}
